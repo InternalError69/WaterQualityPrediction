@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💧 AquaGuardian</h1>
+  <h1>Water Quality Prediction</h1>
   <p>
     <strong>AquaGuardian</strong> is an advanced AI-driven monitoring system designed to detect and predict illegal industrial waste dumping in water bodies. By leveraging machine learning and IoT sensor data, it provides real-time alerts and geospatial insights to protect urban water resources.
   </p>
